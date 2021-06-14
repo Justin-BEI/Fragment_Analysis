@@ -3,4 +3,4 @@ This was my work on the fragment analysis work that was done before. this jupyte
 
 When working with this juypter notebook please only change constants that are outlined as such. Do not mess with any variables that are not clearly labeled as constants or inputs
 
-USE REV 3 VERSIOM
+****************************USE REV 3 VERSION************************************
